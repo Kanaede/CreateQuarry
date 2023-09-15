@@ -17,6 +17,7 @@ public class AllCreativeTabs {
                     .title(Component.translatable("creativetab.createquarry_ctab"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(AllItems.BRONZE_INGOT.get());
+                        pOutput.accept(AllItems.RAW_BRONZE.get());
                     })
                     .build());
 

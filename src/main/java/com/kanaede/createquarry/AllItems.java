@@ -1,6 +1,5 @@
 package com.kanaede.createquarry;
 
-import com.kanaede.createquarry.CreateQuarry;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -12,6 +11,8 @@ public class AllItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, CreateQuarry.MODID);
 
     public static final RegistryObject<Item> BRONZE_INGOT = ITEMS.register("bronze_ingot",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RAW_BRONZE = ITEMS.register("raw_bronze",
             () -> new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
