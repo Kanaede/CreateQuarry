@@ -14,6 +14,8 @@ public class AllItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> RAW_BRONZE = ITEMS.register("raw_bronze",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CRUSHED_RAW_BRONZE = ITEMS.register("crushed_raw_bronze",
+            () -> new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

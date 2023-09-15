@@ -18,6 +18,7 @@ public class AllCreativeTabs {
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(AllItems.BRONZE_INGOT.get());
                         pOutput.accept(AllItems.RAW_BRONZE.get());
+                        pOutput.accept(AllItems.CRUSHED_RAW_BRONZE.get());
                     })
                     .build());
 
