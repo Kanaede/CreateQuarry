@@ -1,4 +1,4 @@
-package com.kanaede.createquarry.item;
+package com.kanaede.createquarry;
 
 import com.kanaede.createquarry.CreateQuarry;
 import net.minecraft.world.item.Item;
