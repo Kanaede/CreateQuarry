@@ -1,7 +1,7 @@
 {
   "item.createquarry.bronze_ingot": "Bronze Ingot",
-  "item.createquarry.raw_bronze": "raw_bronze",
-  "item.createquarry.crushed_raw_bronze": "crushed_raw_bronze",
+  "item.createquarry.raw_bronze": "Raw Bronze",
+  "item.createquarry.crushed_raw_bronze": "Crushed Raw Bronze",
 
   "creativetab.createquarry_ctab": "Create Quarry"
 }
