@@ -5,7 +5,7 @@ Don't have an idea for a name :]
 
 [![GitHub](https://img.shields.io/github/license/kanaede/CreateQuarry?style=for-the-badge)](LICENSE)
 
-[//]: # (![GitHub all releases](https://img.shields.io/github/downloads/kanaede/CreateQuarry/total?style=for-the-badge)
+[//]: # "![GitHub all releases](https://img.shields.io/github/downloads/kanaede/CreateQuarry/total?style=for-the-badge)"
 
 A mod that provides a variety of strange objects, most of which are natural products that can be taken directly.
 
