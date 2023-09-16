@@ -27,6 +27,7 @@ public class CreateQuarry {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         // File reader
+        AllBlocks.register(modEventBus);
         AllCreativeTabs.register(modEventBus);
         AllItems.register(modEventBus);
 

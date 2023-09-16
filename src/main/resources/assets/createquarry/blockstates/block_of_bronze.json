@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "createquarry:block/block_of_bronze"
+    }
+  }
+}

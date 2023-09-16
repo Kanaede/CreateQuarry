@@ -2,6 +2,10 @@
   "item.createquarry.bronze_ingot": "Bronze Ingot",
   "item.createquarry.raw_bronze": "Raw Bronze",
   "item.createquarry.crushed_raw_bronze": "Crushed Raw Bronze",
+  "item.createquarry.bronze_nugget": "Bronze Nugget",
+
+  "block.createquarry.bronze_ore": "Bronze Ore",
+  "block.createquarry.block_of_bronze": "Block Of Bronze",
 
   "creativetab.createquarry_ctab": "Create Quarry"
 }

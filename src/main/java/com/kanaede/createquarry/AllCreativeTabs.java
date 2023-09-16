@@ -19,6 +19,10 @@ public class AllCreativeTabs {
                         pOutput.accept(AllItems.BRONZE_INGOT.get());
                         pOutput.accept(AllItems.RAW_BRONZE.get());
                         pOutput.accept(AllItems.CRUSHED_RAW_BRONZE.get());
+                        pOutput.accept(AllItems.BRONZE_NUGGET.get());
+
+                        pOutput.accept(AllBlocks.BRONZE_ORE.get());
+                        pOutput.accept(AllBlocks.BLOCK_OF_BRONZE.get());
                     })
                     .build());
 
